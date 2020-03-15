@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0224/T633_SumOfSquareNumber.java" line="4" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97d3586f-3dbb-4ed8-ba4b-3dfbce61767b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aimToOffer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/RandomListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0211/RepeatedNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0211/T03_2DemisionArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0211/T05_Space.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0211/T06_PrintLinkesdList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0211/T07_RebuildBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0213/T09_2StackToQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0213/T10_1_Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0213/T10_2_Cover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0213/T10_3_ClimbStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0213/T10_4_ClimbStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0213/T11_MinNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0213/T12_PathInMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0214/T13_RobotMove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0214/T14_CutRope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0214/T15_NumberOf1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0214/T16_Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0215/NumberString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0215/T17_DeleteNodeIn1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0215/T19_PatternStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0216/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0216/T21_OrderArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0216/T22_LastKthNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0216/T23_LoopNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0216/T24_TwistList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0216/T25_CombineList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0216/T26_SubStructreOfTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0217/T27_MirrorBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0217/T28_SymmetricTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0217/T29_ClockWiseMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0217/T30_StackMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0217/T31_StackInPop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0217/T32_1_PrintFromUpToDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0217/T32_2_MoreLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0217/T32_3_ZhiPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0217/T33_BinaryBehind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0218/T34_SumPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0218/T35_CopyComplexList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0218/T36_TwoBanaryFindAndDoubleDirList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0218/T37_SirializeBanaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0218/T38_SortString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0218/T39_MoreThanHalf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0218/T40_MinKNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0220/T41_MidNumInStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0221/T41_2_FirstNotDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0221/T42_MaxSumOfSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0221/T43_TimesOf1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0221/T44_SomeNumOfNumSerizal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0221/T45_ArrayToMinNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0221/T49_UglyNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0221/T50_LocationOfFirstAppreance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0221/T51_Couple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0221/T52_CommonNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0221/T53_NumberTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0221/T54_BanaryFindTreeKthNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0221/T55_1_BanaryTreeDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0221/T55_2_BalancedTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0221/T56_ApperanceOneTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0221/T57_1_SumEqualsS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0221/T57_2_NumbersSumIsS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0221/T58_1_ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0221/T58_2_LeftReverWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0221/T59_MaxNumberOfSlipWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0222/T61_PlayingCardOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0222/T62_LeftnumberInCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0222/T63_MaxStockBenefit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0222/T64_Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0222/T64_GetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0222/T66_BuildProductArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day0222/T67_StringToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day1126/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/buaa/day1126/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0224/T001_SumOfTwoNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0224/T088_MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0224/T141_LinkedListCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0224/T167_SimpleTwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0224/T215_KthLatgestElementInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0224/T345_ReverseYuanYin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0224/T347_TopKFrequentElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0224/T451_SortCharactersByFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0224/T524_LongestWordInDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0224/T633_SumOfSquareNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0224/T680_ValidPalindromeII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0225/T121_BsetTimeBuyingStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0225/T122_MaxBenefitOfStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0225/T392_IsSubSerial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0225/T406_QueueByHeighth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0225/T435_NonOverLappingIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0225/T452_MinimumNumberOfArrowsToBurstBallons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0225/T455_AsignCookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0225/T53_MaxSubSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0225/T605_Flowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0225/T665_NonMenusArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0225/T75_SortColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0225/T763_PartitionLabels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0227/T127_WordLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0227/T153_FindMinimumNumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0227/T241_DesignAdvantage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0227/T278_FirstBadVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0227/T279_PerfectSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0227/T34_SearchForARange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0227/T53_MaxSumOfSubtree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0227/T540_SingleElementInASortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0227/T69_Sqrt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0227/T744_FindMinimumNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0227/T95_DifferentBanaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0228/T130_RoundedArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0228/T17_LetterCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0228/T200_NumberOfIsland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0228/T257_AllPathOfBanaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0228/T39_CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0228/T40_CombinartionSumII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0228/T417_PacificAtlanticWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0228/T46_Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0228/T47_PermutationII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0228/T547_FriendsCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0228/T695_MaxIslandArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0228/T77_Combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0228/T79_SearchWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0228/T93_RestoreIpAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0228/T999_minimumPathFromZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0229/T131_PalindromePartitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0229/T198_HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0229/T216_CombinationIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0229/T279_PerfectSqures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0229/T343_IntegerBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0229/T413_AirthmeticSlices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0229/T62_UniquePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0229/T64_MinimumPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0229/T70_ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0229/T78_SubSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0229/T91_DecodeWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0301/T1143_LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0301/T300_LongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0301/T322_CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0301/T416_PartitionEqualSubsetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0301/T494_TargetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0301/T646_MaxLengthOfPairChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0301/T999_0_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T104_HeightOfTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T110_BalancedBanaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T160_IntersectionOfTwoLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T168_ExcelSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T172_FactorialZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T19_DeleteLastNthNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T204_CountTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T206_ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T21_MergeTwoSortedLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T234_PalindromeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T24_SwapNeighbordNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T328_OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T405_Base16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T415_AddString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T445_AddTwoNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T504_Case7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T583_DeleteCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T67_AddBanary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T72_EditDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0302/T83_RemoveDumplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T101_SymetricTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T108_buildBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T109_SortedLinkedListToBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T111_MinAepthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T112_PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T144_BinaryTreePreorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T145_BinaryTreePostorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T155_MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T1_TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T20_ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T217_ContainsDumplicated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T225_QueueToStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T226_InvertBanaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T230_KthMinOfBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T232_ImplementStackUsingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T235_LatestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T337_HouseRobberIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T404_SumOfLeftLeaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T427_PathSumIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T513_FindLeftBottom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T543_DiameterOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T557_ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T572_SubTreeOfAnotherTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T594_LongestHarmoniousSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T617_MergeTwoBinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T637_AveragesOdLevels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T669_TrimBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T94_BinaryTreeInorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T205_IsommorphicStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T240_Search2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T242_ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T283_MoveZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T409_LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T485_MaxOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T5_MaxHuiwenSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T647_PalindromeSubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T9_IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0307/T198_HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0307/T213_HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0307/T42_GetRain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T279.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T303.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T343.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T413.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0312/T01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0312/T02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0312/T03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0312/T04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/day0315/T05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sort/BubleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sort/ChooseSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sort/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sort/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sort/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sort/SortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/buaa/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/buaa/sorttest/BubleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/buaa/sorttest/ChooseSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/buaa/sorttest/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/buaa/sorttest/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/buaa/sorttest/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/buaa/sorttest/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/buaa/sorttest/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/buaa/sorttest/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/buaa/sorttest/TestSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/buaa/stringtest/Manacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/buaa/stringtest/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/RandomListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0211/RepeatedNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0211/T03_2DemisionArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0211/T05_Space.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0211/T06_PrintLinkesdList$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0211/T06_PrintLinkesdList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0211/T07_RebuildBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0211/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0213/T09_2StackToQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0213/T10_1_Fibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0213/T10_2_Cover.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0213/T10_3_ClimbStep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0213/T10_4_ClimbStep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0213/T11_MinNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0213/T12_PathInMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0214/T13_RobotMove.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0214/T14_CutRope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0214/T15_NumberOf1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0214/T16_Power.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0215/NumberString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0215/T17_DeleteNodeIn1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0215/T19_PatternStr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0216/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0216/T21_OrderArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0216/T22_LastKthNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0216/T23_LoopNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0216/T24_TwistList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0216/T25_CombineList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0216/T26_SubStructreOfTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0217/T27_MirrorBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0217/T28_SymmetricTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0217/T29_ClockWiseMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0217/T30_StackMin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0217/T31_StackInPop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0217/T32_1_PrintFromUpToDown.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0217/T32_2_MoreLine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0217/T32_3_ZhiPrint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0217/T33_BinaryBehind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0218/T34_SumPath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0218/T35_CopyComplexList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0218/T36_TwoBanaryFindAndDoubleDirList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0218/T37_SirializeBanaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0218/T38_SortString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0218/T39_MoreThanHalf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0218/T40_MinKNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0220/T41_MidNumInStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0221/T41_2_FirstNotDuplicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0221/T42_MaxSumOfSubArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0221/T43_TimesOf1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0221/T44_SomeNumOfNumSerizal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0221/T45_ArrayToMinNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0221/T49_UglyNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0221/T50_LocationOfFirstAppreance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0221/T51_Couple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0221/T52_CommonNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0221/T53_NumberTimes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0221/T54_BanaryFindTreeKthNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0221/T55_1_BanaryTreeDepth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0221/T55_2_BalancedTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0221/T56_ApperanceOneTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0221/T57_1_SumEqualsS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0221/T57_2_NumbersSumIsS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0221/T58_1_ReverseWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0221/T58_2_LeftReverWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0221/T59_MaxNumberOfSlipWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0222/T61_PlayingCardOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0222/T62_LeftnumberInCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0222/T63_MaxStockBenefit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0222/T64_Add.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0222/T64_GetSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0222/T66_BuildProductArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day0222/T67_StringToInteger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day1126/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/buaa/day1126/Solution2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0224/T001_SumOfTwoNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0224/T088_MergeSortedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0224/T141_LinkedListCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0224/T167_SimpleTwoSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0224/T215_KthLatgestElementInAnArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0224/T345_ReverseYuanYin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0224/T347_TopKFrequentElements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0224/T451_SortCharactersByFrequency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0224/T524_LongestWordInDictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0224/T633_SumOfSquareNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0224/T680_ValidPalindromeII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0225/T121_BsetTimeBuyingStock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0225/T122_MaxBenefitOfStock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0225/T392_IsSubSerial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0225/T406_QueueByHeighth$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0225/T406_QueueByHeighth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0225/T435_NonOverLappingIntervals$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0225/T435_NonOverLappingIntervals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0225/T452_MinimumNumberOfArrowsToBurstBallons$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0225/T452_MinimumNumberOfArrowsToBurstBallons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0225/T455_AsignCookies.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0225/T53_MaxSubSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0225/T605_Flowers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0225/T665_NonMenusArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0225/T75_SortColors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0225/T763_PartitionLabels.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0227/T127_WordLadder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0227/T153_FindMinimumNumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0227/T241_DesignAdvantage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0227/T278_FirstBadVersion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0227/T279_PerfectSquares.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0227/T34_SearchForARange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0227/T53_MaxSumOfSubtree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0227/T540_SingleElementInASortedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0227/T69_Sqrt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0227/T744_FindMinimumNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0227/T95_DifferentBanaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0228/T130_RoundedArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0228/T17_LetterCombinations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0228/T200_NumberOfIsland.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0228/T257_AllPathOfBanaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0228/T39_CombinationSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0228/T40_CombinartionSumII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0228/T417_PacificAtlanticWater.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0228/T46_Permutation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0228/T47_PermutationII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0228/T547_FriendsCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0228/T695_MaxIslandArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0228/T77_Combination.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0228/T79_SearchWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0228/T93_RestoreIpAddress.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0228/T999_minimumPathFromZero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0229/T131_PalindromePartitioning.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0229/T198_HouseRobber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0229/T216_CombinationIII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0229/T279_PerfectSqures.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0229/T343_IntegerBreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0229/T413_AirthmeticSlices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0229/T62_UniquePath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0229/T64_MinimumPathSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0229/T70_ClimbingStairs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0229/T78_SubSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0229/T91_DecodeWays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0301/T1143_LongestCommonSubsequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0301/T300_LongestIncreasingSubsequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0301/T322_CoinChange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0301/T416_PartitionEqualSubsetSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0301/T494_TargetSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0301/T646_MaxLengthOfPairChain$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0301/T646_MaxLengthOfPairChain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0301/T999_0_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T104_HeightOfTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T110_BalancedBanaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T160_IntersectionOfTwoLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T168_ExcelSheet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T172_FactorialZeros.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T19_DeleteLastNthNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T204_CountTimes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T206_ReverseLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T21_MergeTwoSortedLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T234_PalindromeLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T24_SwapNeighbordNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T328_OddEven.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T405_Base16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T415_AddString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T445_AddTwoNums.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T504_Case7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T583_DeleteCharacter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T67_AddBanary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T72_EditDistance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0302/T83_RemoveDumplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T101_SymetricTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T108_buildBST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T109_SortedLinkedListToBST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T111_MinAepthOfBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T112_PathSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T144_BinaryTreePreorder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T145_BinaryTreePostorder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T155_MinStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T1_TwoSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T20_ValidParentheses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T217_ContainsDumplicated.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T225_QueueToStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T226_InvertBanaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T230_KthMinOfBST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T232_ImplementStackUsingQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T235_LatestCommonAncestor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T337_HouseRobberIII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T404_SumOfLeftLeaves.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T427_PathSumIII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T513_FindLeftBottom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T543_DiameterOfBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T557_ReverseWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T572_SubTreeOfAnotherTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T594_LongestHarmoniousSubsequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T617_MergeTwoBinaryTrees.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T637_AveragesOdLevels.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T669_TrimBST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0303/T94_BinaryTreeInorder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0304/T205_IsommorphicStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0304/T240_Search2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0304/T242_ValidAnagram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0304/T283_MoveZero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0304/T409_LongestPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0304/T485_MaxOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0304/T5_MaxHuiwenSubstring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0304/T647_PalindromeSubstrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/leetcode/day0304/T9_IsPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sort/BubleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sort/ChooseSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sort/HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sort/InsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sort/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sort/ShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/sort/SortTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/buaa/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/buaa/sorttest/BubleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/buaa/sorttest/ChooseSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/buaa/sorttest/HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/buaa/sorttest/InsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/buaa/sorttest/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/buaa/sorttest/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/buaa/sorttest/ShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/buaa/sorttest/Sort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/buaa/sorttest/TestSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/buaa/stringtest/Manacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/buaa/stringtest/StringTest.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T413.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" selection-start-line="2" selection-end-line="20" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T343.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" selection-start-line="3" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T279.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T91.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0312/T01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="6" selection-start-line="6" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0312/T02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0312/T03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0312/T04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0315/T05.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#96#97#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/buaa/sorttest/InsertSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Entry</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T557_ReverseWords.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T242_ValidAnagram.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T409_LongestPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T205_IsommorphicStrings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T5_MaxHuiwenSubstring.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T647_PalindromeSubstrings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T9_IsPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T283_MoveZero.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T485_MaxOne.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T240_Search2D.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T287_FirstError.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T287_FirstDumplicated.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sort/NumUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sort/ChooseSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sort/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sort/ShellSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sort/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sort/HeadpSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sort/HeadSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sort/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sort/SortTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sort/BubleSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/buaa/sorttest/Sort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/buaa/sorttest/BubleSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/buaa/sorttest/ChooseSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/buaa/sorttest/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/buaa/sorttest/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/buaa/sorttest/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/buaa/sorttest/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/buaa/sorttest/TestSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/buaa/sorttest/ShellSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/buaa/stringtest/StringTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/buaa/stringtest/Manacher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0307/T198_HouseRobber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0307/T213_HouseRobber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0307/GetRain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0307/T42_GetRain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T64.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T62.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T303.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T413.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T343.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T279.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T91.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T100.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0312/T01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0312/T02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0312/T03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0312/T04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/leetcode/day0315/T05.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java\repository" />
+        <option name="mavenHome" value="D:/dev/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\dev\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2265" />
+    <option name="y" value="179" />
+    <option name="width" value="1693" />
+    <option name="height" value="865" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="aimToOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aimToOffer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aimToOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aimToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aimToOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aimToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aimToOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aimToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aimToOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aimToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aimToOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aimToOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="buaa" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.buaa.day0211" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StringTest">
+    <configuration name="SortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sort.SortTest" />
+      <module name="aimToOffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.buaa.stringtest.StringTest" />
+      <module name="aimToOffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T557_ReverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.day0303.T557_ReverseWords" />
+      <module name="aimToOffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T64_MinimumPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.day0229.T64_MinimumPathSum" />
+      <module name="aimToOffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.buaa.sorttest.TestSort" />
+      <module name="aimToOffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringTest" />
+        <item itemvalue="Application.TestSort" />
+        <item itemvalue="Application.SortTest" />
+        <item itemvalue="Application.T557_ReverseWords" />
+        <item itemvalue="Application.T64_MinimumPathSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17130621" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32777777" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2982456" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27555555" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32666665" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T205_IsommorphicStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T647_PalindromeSubstrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T9_IsPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T283_MoveZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T485_MaxOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T287_FirstDumplicated.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T240_Search2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sort/NumUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0303/T557_ReverseWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sort/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sort/ChooseSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sort/BubleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sort/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_191/jre/lib/rt.jar!/java/util/ArrayList.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_191/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9526">
+          <caret line="543" column="7" lean-forward="true" selection-start-line="543" selection-start-column="7" selection-end-line="543" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_191/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="565" column="12" selection-start-line="565" selection-start-column="12" selection-end-line="565" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_191/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="433" column="74" selection-start-line="433" selection-start-column="69" selection-end-line="433" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/buaa/sorttest/BubleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/buaa/sorttest/ChooseSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/buaa/sorttest/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sort/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sort/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/buaa/sorttest/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/buaa/sorttest/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/buaa/sorttest/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="1959" column="18" selection-start-line="1959" selection-start-column="18" selection-end-line="1959" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/buaa/sorttest/TestSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/buaa/stringtest/Manacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0307/T198_HouseRobber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0307/T213_HouseRobber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/buaa/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0304/T5_MaxHuiwenSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/buaa/stringtest/StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/buaa/sorttest/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T100.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0307/T42_GetRain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T62.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T303.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T413.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T343.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T279.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0309/T91.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0312/T01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" selection-start-line="6" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0312/T02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0312/T03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0312/T04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/buaa/sorttest/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/leetcode/day0315/T05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>aimToOffer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
